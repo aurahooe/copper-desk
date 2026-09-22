@@ -1,2 +1,3 @@
-# copper-desk
-Copper Desk — a living hourly press with public notes and accounts
+# Copper Desk
+
+A living press. Accounts, private drafts, a public wall, and an hour that turns itself.
